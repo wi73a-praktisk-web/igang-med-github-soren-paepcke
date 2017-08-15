@@ -1,1 +1,1 @@
-console.log('Virk nu for fsjabkasd!');
+console.log('hej verden hvordan har du det :D');
