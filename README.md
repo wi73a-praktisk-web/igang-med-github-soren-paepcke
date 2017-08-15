@@ -26,7 +26,7 @@ Evt. tilføj en *beskrivelse*, for kort at fortælle hvad det handler om.
 10. Tillykke ! :smile: 
 Du har nu oprettet et repository, på [GitHub](http://github.com), og er godt på vej til at blive en superstar! *Keep on rockin'!*
 
-11. Tips & Tricks til tekst formatering
+11. Tips & Tricks til tekst formatering blababllablab
 ```javascript
 console.log('dette er en besked');
 ```
