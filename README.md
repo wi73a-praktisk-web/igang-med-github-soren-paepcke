@@ -69,3 +69,20 @@ else{
     console.log("Hvis betingelsen IKKE er sand, kører denne kode");
 }
 ```
+Denne kode skriver en besked ud i konsollen, når betingelsen er sand, og en anden besked, hvis betingelsen *IKKE* er sand.
+
+Koden til syntax-highlight over dette:
+
+\`\`\`javascript
+
+var betingelse = true;
+
+if (betingelse = true){\
+    console.log("Hvis betingelsen er sand, denne kode bliver kørt")\
+}
+
+else{\
+    console.log("Hvis betingelsen IKKE er sand, kører denne kode");\
+}\
+\`\`\`
+
