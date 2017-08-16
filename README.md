@@ -26,7 +26,14 @@ Evt. tilføj en *beskrivelse*, for kort at fortælle hvad det handler om.
 10. Tillykke ! :smile: 
 Du har nu oprettet et repository, på [GitHub](http://github.com), og er godt på vej til at blive en superstar! *Keep on rockin'!*
 
-11. Tips & Tricks til tekst formatering blababl
+11. Tips & Tricks til tekst formatering blabablasdandkasbd
 ```javascript
-console.log('dette er en besked');
+var betingelse = true;
+
+if (betingelse = true){
+    console.log("Hvis betingelsen er sand, denne kode bliver kørt")
+}
+else{
+    console.log("Hvis betingelsen IKKE er sand, kører denne kode");
+}
 ```
