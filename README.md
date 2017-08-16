@@ -26,7 +26,39 @@ Evt. tilføj en *beskrivelse*, for kort at fortælle hvad det handler om.
 10. Tillykke ! :smile: 
 Du har nu oprettet et repository, på [GitHub](http://github.com), og er godt på vej til at blive en superstar! *Keep on rockin'!*
 
-11. Tips & Tricks til tekst formatering blabablasdandkasbd
+### Tips & Tricks til tekst formatering
+
+Man kan lave meget *forskellig* tekst formattering i GitHub's readme-filer.
+
+#### Billeder
+For at sætte et billede ind, skal man skrive:
+
+```
+![*Derp*](http://img2.wikia.nocookie.net/__cb20110608183440/inciclopedia/images/c/c8/Derp1.jpg)
+```
+![*Derp*](http://img2.wikia.nocookie.net/__cb20110608183440/inciclopedia/images/c/c8/Derp1.jpg)
+
+#### Links
+
+Sådan ser koden til links ud, i README:
+```
+Link til "Markdown" tips & tricks!
+[Åbner en GitHub guide](http://github.com) 
+```
+
+Sådan her ser det ud med markdown:
+
+Link til "Markdown" tips & tricks!
+[Åbner en GitHub guide](http://github.com)
+
+#### Markdown
+
+Markdown er tekstformatteringen, på denne readme f.eks.
+
+Det kan også bruges i kommentarer under "Issues", og "Pull Requests".
+
+Du kan også vise kodestumper, vha. markdown.
+
 ```javascript
 var betingelse = true;
 
