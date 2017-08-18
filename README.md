@@ -62,7 +62,7 @@ Du kan også vise kodestumper, vha. markdown.
 ```javascript
 var betingelse = true;
 
-if (betingelse = true){
+if (betingelse == true){
     console.log("Hvis betingelsen er sand, denne kode bliver kørt")
 }
 else{
