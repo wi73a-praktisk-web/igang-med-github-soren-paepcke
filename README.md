@@ -77,7 +77,7 @@ Koden til syntax-highlight over dette:
 
 var betingelse = true;
 
-if (betingelse = true){\
+if (betingelse == true){\
     console.log("Hvis betingelsen er sand, denne kode bliver kørt")\
 }
 
